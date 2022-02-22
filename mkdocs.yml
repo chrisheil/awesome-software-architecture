@@ -255,7 +255,7 @@ nav:
   - Documentation: messaging/documentation.md
   - Kafka: messaging/kafka.md
   - RabbitMQ: messaging/rabbitmq.md
-  - Azure Service Bus: azure/azure-service-bus.md
+  - Azure Service Bus: azure/messaging/azure-service-bus.md
   - NATS: messaging/nats.md
 - Distributed Transactions: distributed-transactions.md
 - Eventual Consistency: eventual-consistency.md
